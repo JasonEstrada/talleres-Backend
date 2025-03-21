@@ -1,0 +1,1 @@
+console.log(puntoUno(datos, "2"));
